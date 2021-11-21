@@ -1,2 +1,3 @@
 # react-hook-form-sample-snippet
-My sample of login form with React Hook Form
+
+My sample of Login Form with React Hook Form
